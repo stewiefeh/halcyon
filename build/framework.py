@@ -1,7 +1,7 @@
 # HALCYON build framework: shared layout + SVG art generators
 import html as _h
 
-CANON = "https://halcyon.pages.dev"   # placeholder, corrected to real subdomain in v1.0.1
+CANON = "https://halcyon-dqd.pages.dev"   # placeholder, corrected to real subdomain in v1.0.1
 VER = "1.0.0"
 NAME = "Halcyon Stereo"
 TAG = "Vintage Hi-Fi & Records, Portland OR"

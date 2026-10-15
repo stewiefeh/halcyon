@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://halcyon.pages.dev/sitemap.xml
+Sitemap: https://halcyon-dqd.pages.dev/sitemap.xml
