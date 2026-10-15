@@ -1,0 +1,10 @@
+{
+  "name": "Halcyon Stereo",
+  "short_name": "Halcyon",
+  "description": "Vintage hi-fi and records, Portland OR. Fictional portfolio piece.",
+  "start_url": "/index.html",
+  "display": "browser",
+  "background_color": "#f2ead8",
+  "theme_color": "#e0862f",
+  "icons": [{ "src": "assets/img/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

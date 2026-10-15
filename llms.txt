@@ -1,0 +1,27 @@
+# Halcyon Stereo
+
+Fictional vintage hi-fi and records shop in Portland, Oregon (est. 1974). Design and
+development portfolio piece by Stephen Fehon; all businesses, people, products, prices,
+events, and contact details are invented. No frameworks, static HTML/CSS/JS.
+
+## Pages
+- index.html: home, featured gear, crate picks, service summary
+- about.html: shop story, five-decade timeline, staff
+- inventory.html: filterable catalog of restored gear
+- turntable-tt500.html, receiver-r70.html, speakers-ls6.html: gear detail pages
+- records.html: crate system and grading policy
+- service.html: published bench rates and repair process
+- events.html: listening nights and clinics calendar
+- journal.html, journal-sansui.html, journal-care.html: journal and two entries
+- trade-in.html: selling/trading policy and form
+- contact.html: hours, address, visit guide
+- faq.html: fourteen questions
+- privacy.html, terms.html: demo policies
+- 404.html: not-found page
+
+## Design identity
+Warm retro-futurist 1970s: bone cream, burnt orange, mustard, walnut, avocado accent.
+Fonts: Anybody (variable, width axis) and Figtree, self-hosted WOFF2. Film grain, sunburst
+and wood-grain motifs, ticket-stub cards, spinning-vinyl canvas hero, VU-meter canvas,
+lamp-switch theme toggle, scroll-driven animations with graceful fallback, reduced-motion
+honored. WCAG 2.2 AA target.
